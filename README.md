@@ -1,2 +1,2 @@
-# aktham
-check the number if it prime or not 
+# check the number if it prime or not 
+
